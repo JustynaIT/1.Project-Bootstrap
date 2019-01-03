@@ -40,20 +40,20 @@ body{
 }
 .figure-caption{
 	top:40%;
-	transform:translateY(-140%);
+	transform:translateY(-120%);
 }
 .k{
-	margin-top:-170px;
+	margin-top:-140px;
 }
 .figure-caption h1{
 	
-	font-size:70px;
+	font-size:50px;
 	color:#f4f3ed;
 	text-shadow:1px 1px 20px #000;
 }
 .figure-caption p{
 	font-weight:bold;
-	font-size:30px;
+	font-size:25px;
 	color:#f4f3ed;
 	text-shadow:1px 1px 10px #000;
 }
