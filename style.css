@@ -4,7 +4,7 @@ body{
 	font-family: 'Montserrat', sans-serif !important;
 }
 .navbar, footer{
-	background-color:#5d8bb6; /*niebieski*/
+	background-color:#5d8bb6; 
 	font-weight:bold;
 	letter-spacing: 1.5px;
 }
@@ -27,7 +27,7 @@ body{
 	color:#0e141b !important; 
 }
 .dropdown-item:hover{
-	/*background-color:#0e141b;*/
+	
 	text-shadow:1px 1px 1px #ccc;
 }
 .dropdown-item:focus{
@@ -58,19 +58,19 @@ body{
 	text-shadow:1px 1px 10px #000;
 }
 .img-thumbnail a{
-	text-decoration: none !important;
-	color:#0e141b !important;
+	text-decoration: none ;
+	color:#0e141b ;
 	
 }
 .caption:hover{
-	text-decoration: none !important;
-	color:#0e141b !important;
+	text-decoration: none ;
+	color:#0e141b ;
 }
 
 .img:hover {
-	-webkit-transform: scale(1.10)!important;
-	-ms-transform: scale(1.10)!important;
-	transform: scale(1.10)!important;
+	-webkit-transform: scale(1.10);
+	-ms-transform: scale(1.10);
+	transform: scale(1.10);
 }
 .img {
 	transition:all 0.5s ease-in-out;
@@ -102,5 +102,27 @@ h2{
 footer p{
 	font-size:12px;
 	font-weight:normal;
+	
+}
+.button1{
+	font-size:30px;
+	background-color:#f5f0c6;
+	margin-right:0px 20px;
+	color:#0e141b;
+	
+}
+.button1:hover{
+	background-color:#eee8aa ;
+	color:#0e141b;
+}
+.button2{
+	font-size:30px;
+	margin:0px 20px;
+	background-color:#a1efd2;
+	color:#0e141b;
+}
+.button2:hover{
+	background-color: #82d0b4;
+	color:#0e141b;
 	
 }
