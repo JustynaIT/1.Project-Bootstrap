@@ -104,19 +104,21 @@ footer p{
 	font-weight:normal;
 	
 }
+
 .button1{
-	font-size:30px;
+	font-size:25px;
 	background-color:#f5f0c6;
 	margin-right:0px 20px;
 	color:#0e141b;
 	
 }
+
 .button1:hover{
 	background-color:#eee8aa ;
 	color:#0e141b;
 }
 .button2{
-	font-size:30px;
+	font-size:25px;
 	margin:0px 20px;
 	background-color:#a1efd2;
 	color:#0e141b;
